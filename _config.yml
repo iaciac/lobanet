@@ -1,12 +1,12 @@
 # Site settings
 title: NashGrid
 description: "Nash equilibria for load balancing in networked power systems"
-url: https://iaciac.github.io/nash
+url: "https://iaciac.github.io"
 
 
 
 # Secondary Parameters
-baseurl: "/nash"
+baseurl: /iaciac
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /nash/img/logos/Project-Pages-New-Logo-Inverted.png
