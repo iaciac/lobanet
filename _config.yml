@@ -15,7 +15,7 @@ headercolor: "#FFFFFF"
 github_username:  iaciac
 project_repository: nash
 disqus_shortname: nash
-g-analytics: UA-75881392-1
+# g-analytics: UA-75881392-1
 altmetric: true
 
 # Build settings
