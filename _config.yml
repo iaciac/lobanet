@@ -6,10 +6,10 @@ url: "https://iaciac.github.io"
 
 
 # Secondary Parameters
-baseurl: /iaciac
+baseurl: /nash
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /nash/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  iaciac
