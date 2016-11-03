@@ -3,29 +3,38 @@ layout: page
 title: "Project Partners"
 header-img: "img/Smart_Grid.jpg"
 ---
+<hr>
+
+<!--First Partner-->
+
+<img src="https://iaciac.github.io/nash/img/members/Latora.JPG" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
+	
+<h1>Future Decisions Ltd</h1>	
+<!--<h2>{{ member.role }}</h2>-->
+<span class="social-share-googleplus"><a href="http://www.futuredecisions.net/" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
+
+</br>
+
+Descrizione 1
+	
+<hr>
+
+<!--Second Partner-->
+
+<img src="https://iaciac.github.io/nash/img/members/Latora.JPG" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
+	
+<h1>Upside Energy Ltd</h1>	
+<!--<h2>{{ member.role }}</h2>-->
+<span class="social-share-googleplus"><a href="http://upsideenergy.co.uk/" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
+
+</br>
+
+Descrizione 2
+	
+<hr>
+
+
 <!--
 <b><a href="http://www.futuredecisions.net/">Future Decisions Ltd</a></b> and <b><a href="http://upsideenergy.co.uk/">Upside Energy Ltd</a></b>
 -->
-<hr>
 
-{% for partner in site.data.partners %} {% if member.visible == true %}
-
-	<img src="{{ partner.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
-	
-	<h1>{{ partner.name }}</h1>
-	
-	<h2>{{ partner.role }}</h2>
-	
-	{% if partner.url %}
-	<span class="social-share-googleplus"><a href="{{partner.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
-	{% endif %}
-	
-	</br>
-
-	{% if partner.bio %} 
-	{{ partner.bio }}
-	{% endif %}
-	
-	<hr>
-
-{% endif %}{% endfor %}
