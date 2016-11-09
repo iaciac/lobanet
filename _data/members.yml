@@ -19,7 +19,7 @@
   
 - name: Randall Martyr
   role: Researcher
-  # img: https://iaciac.github.io/nash/img/members/Martyr.jpg
+  img: https://iaciac.github.io/nash/img/members/Martyr.jpg
   # bio: 
   url: Randall Martyr
   visible: true
