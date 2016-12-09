@@ -7,7 +7,7 @@ url: "https://iaciac.github.io"
 
 # Secondary Parameters
 baseurl: /nash
-header-img: img/gridbw.jpg
+header-img: img/gridbw90.jpg
 headercolor: "#FFFFFF"
 # logo: nash/img/logos/Project-Pages-New-Logo-Inverted.png
 
@@ -35,7 +35,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/gridbw.jpg"
+      header-img: "img/gridbw90.jpg"
 
 # Prose Settings
 prose:
