@@ -7,7 +7,7 @@ header-img: "img/gridbw.jpg"
 ### Workshop
 In collaboration with [National Grid](http://www2.nationalgrid.com/uk/), we  are hosting a workshop in Wokingham on 19-20 January 2017 on Mathematics and Economics of Energy Markets.  The purpose of this workshop is to bring together industry experts, mathematicians and economists to focus on topics of acknowledged economic importance to the design and operation of future energy systems.  Each of these topics will be introduced by someone with knowledge of the industry and energy markets, and we propose also extensive discussion.
 
-The workshop is one of three planned in preparation for a proposed 4-month research programme in 2019 at the Isaac Newton Institute of Mathematical Sciences in Cambridge.  This programme will bring about 60 leading scholars from mathematics and economics to work on matters relating to energy and electricity.
+The workshop is one of three planned in preparation for a proposed 4-month research programme in 2019 at the [Isaac Newton Institute of Mathematical Sciences](https://www.newton.ac.uk/) in Cambridge.  This programme will bring about 60 leading scholars from mathematics and economics to work on matters relating to energy and electricity.
 
 
 Topics to be addressed at the Wokingham workshop are:
