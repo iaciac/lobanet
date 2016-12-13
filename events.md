@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Events"
-header-img: "img/gridbw.jpg =100x"
+header-img: "img/gridbw.jpg"
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/National_Grid_logo.svg/2000px-National_Grid_logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/National_Grid_logo.svg/2000px-National_Grid_logo.svg.png =250x)
 
 ### Workshop
 In collaboration with [National Grid](http://www2.nationalgrid.com/uk/), we  are hosting a workshop in Wokingham on 19-20 January 2017 on Mathematics and Economics of Energy Markets.  The purpose of this workshop is to bring together industry experts, mathematicians and economists to focus on topics of acknowledged economic importance to the design and operation of future energy systems.  Each of these topics will be introduced by someone with knowledge of the industry and energy markets, and we propose also extensive discussion.
