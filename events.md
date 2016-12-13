@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Events"
-header-img: "img/gridbw.jpg =250x"
+header-img: "img/gridbw.jpg =100x"
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/National_Grid_logo.svg/2000px-National_Grid_logo.svg.png)
