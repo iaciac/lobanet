@@ -20,7 +20,7 @@ A multi-player version of the above game arises with the addition of third-party
 
 By appropriately applying the mathematical theory of dynamic games and then combining it with network theory and other tools from complexity science and generalized statistical mechanics, the LoBaNet research team aims to establish the existence of dynamic equilibria in games such as Example 1 and Example 2. Further we develop the necessary practical technology, namely the numerical approaches needed to both evaluate (or approximate) and implement the resulting dynamic operational strategies. Finally we generalize the simple examples considered to a much wider context of stochastic modelling of load balance and optimization processes described by superstatistical processes and/or multiplex networks, allowing for time evolution of links and nonstationary behavior.
 
-We will closely interact with our industrial project partners (Future Decisions Ltd and Upside Energy) to make sure that the models and algorithmic technology developed are realistic, of practical relevance and potentially of commercial interest.
+We closely interact with our industrial project partners (Future Decisions Ltd and Upside Energy) to make sure that the models and algorithmic technology developed are realistic, of practical relevance and potentially of commercial interest.
 
 
 	
