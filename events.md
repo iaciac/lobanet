@@ -35,7 +35,7 @@ Some limited financial support is available.
 ### Schedule 
 The workshop will start on Thursday 19 January 2017 at 9:30 (first talk at 10:30) and will end on Friday 20 January 2017 at 16:30 (see schedule).
 
-The complete schedule can be found [here](https://github.com/iaciac/lobanet/docs/schedule-wokingham.docx).
+The complete schedule can be found <a href="https://github.com/iaciac/lobanet/docs/schedule-wokingham.docx">here</a>.
 
 ### Location
 The of the meeting is The Oaks, The Pavilion, Sadlers End, Sindlesham, Wokingham RG41 5BP
