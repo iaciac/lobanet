@@ -36,14 +36,18 @@ Some limited financial support is available.
 
 ## Information for Workshop Participants
 
+### Schedule 
 The workshop will start on Thursday 19 January 2017 at 9:30 (first talk at 10:30) and will end
 on Friday 20 January 2017 at 16:30 (see schedule)
 
 ### Location
+The of the meeting is The Oaks, The Pavilion, Sadlers End, Sindlesham, Wokingham RG41 5BP
 
-The **location** of the meeting is:
-The Oaks, The Pavilion, Sadlers End, Sindlesham, Wokingham RG41 5BP
-
-### How to reach the venue:
+### How to reach the venue
 * If you are coming by car, use the SatNav code RG41 5BP
 * If you are coming by train, take a taxi from Wokingham station
+
+### Accomodation
+Participants who need accomodation for Thursday night should make their own hotel reservation in Wokingham or
+the surrounding area, using the website [www.booking.com](http://www.booking.com/).
+
