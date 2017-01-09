@@ -6,7 +6,7 @@ header-img: "img/gridbw.jpg"
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/National_Grid_logo.svg/2000px-National_Grid_logo.svg.png" alt="Drawing" style="width: 250px;"/>
 
-## Workshop: Mathematics and Economics of Energy Markets 
+## Workshop:Mathematics and Economics of Energy Markets 
 ---
 **Organized by Christian Beck (QMUL), Chris Dent (Edinburgh), Preetam Heeramun (National Grid), Andrew Richards (National Grid), Stan Zachary (Heriott-Watt)**
 
