@@ -31,8 +31,9 @@ both in UK and throughout the world.
 If you wish to participate in the workshop, contact one of the co-organisers.
 Some limited financial support is available.
 
+---
 ## Information for Workshop Participants
-
+---
 ### Schedule 
 The workshop will start on Thursday 19 January 2017 at 9:30 (first talk at 10:30) and will end
 on Friday 20 January 2017 at 16:30 (see schedule)
