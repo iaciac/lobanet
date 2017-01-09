@@ -51,3 +51,8 @@ The of the meeting is The Oaks, The Pavilion, Sadlers End, Sindlesham, Wokingham
 Participants who need accomodation for Thursday night should make their own hotel reservation in Wokingham or
 the surrounding area, using the website [www.booking.com](http://www.booking.com/).
 
+### Dinner
+Please let us know if you wish to take part in the dinner on **Thursday evening**.
+
+### Financial Support
+We do have some limited financial support. For requests of financial support for your travel expenses/hotel accomodation, contact Prof C. Beck (c.beck@qmul.ac.uk), either in advance or at the meeting.
