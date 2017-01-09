@@ -19,11 +19,8 @@ The workshop is one of three planned in preparation for a proposed 4-month resea
 Topics to be addressed at the Wokingham workshop are:
 
 * Design of markets
-
 * Market integration of demand-side management and storage
-
 * Design and operation of interconnected markets
-
 * Design of capacity procurement mechanisms under future uncertainty
 
 
