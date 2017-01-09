@@ -29,7 +29,7 @@ The idea is for mathematicians and economists to understand the real-life proble
 If you wish to participate in the workshop, contact one of the co-organisers.
 Some limited financial support is available.
 
----
+
 ## Information for Workshop Participants
 
 ### Schedule 
