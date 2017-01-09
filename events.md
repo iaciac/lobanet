@@ -33,7 +33,7 @@ Some limited financial support is available.
 ## Information for Workshop Participants
 
 ### Schedule 
-The workshop will start on Thursday 19 January 2017 at 9:30 (first talk at 10:30) and will end on Friday 20 January 2017 at 16:30 (see schedule).
+The workshop will start on Thursday 19 January 2017 at 9:30 (first talk at 10:30) and will end on Friday 20 January 2017 at 16:30.
 
 The complete schedule can be found [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/schedule-wokingham.pdf).
 
