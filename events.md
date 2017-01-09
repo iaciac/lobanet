@@ -38,7 +38,7 @@ The workshop will start on Thursday 19 January 2017 at 9:30 (first talk at 10:30
 The complete schedule can be found [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/schedule-wokingham.pdf).
 
 ### Location
-The of the meeting is The Oaks, The Pavilion, Sadlers End, Sindlesham, Wokingham RG41 5BP
+The location of the meeting is [The Oaks](http://theoaks.events/conference.html), The Pavilion, Sadlers End, Sindlesham, Wokingham RG41 5BP
 
 ### How to reach the venue
 * If you are coming by car, use the SatNav code RG41 5BP
