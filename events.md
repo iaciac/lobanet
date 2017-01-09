@@ -24,9 +24,7 @@ Topics to be addressed at the Wokingham workshop are:
 * Design of capacity procurement mechanisms under future uncertainty
 
 
-The idea is for mathematicians and economists to understand the real-life problems that are on the horizon,
-and to develop the mathematical and economic tools suitable for planning for the future of electricity networks,
-both in UK and throughout the world.
+The idea is for mathematicians and economists to understand the real-life problems that are on the horizon, and to develop the mathematical and economic tools suitable for planning for the future of electricity networks, both in UK and throughout the world.
 
 If you wish to participate in the workshop, contact one of the co-organisers.
 Some limited financial support is available.
@@ -35,8 +33,8 @@ Some limited financial support is available.
 ## Information for Workshop Participants
 ---
 ### Schedule 
-The workshop will start on Thursday 19 January 2017 at 9:30 (first talk at 10:30) and will end
-on Friday 20 January 2017 at 16:30 (see schedule)
+The workshop will start on Thursday 19 January 2017 at 9:30 (first talk at 10:30) and will end on Friday 20 January 2017 at 16:30 (see schedule).
+The complete schedule can be downloaded [here](https://github.com/iaciac/lobanet/tree/gh-pages/docs/schedule-wokingham.docx).
 
 ### Location
 The of the meeting is The Oaks, The Pavilion, Sadlers End, Sindlesham, Wokingham RG41 5BP
@@ -46,8 +44,7 @@ The of the meeting is The Oaks, The Pavilion, Sadlers End, Sindlesham, Wokingham
 * If you are coming by train, take a taxi from Wokingham station
 
 ### Accomodation
-Participants who need accomodation for Thursday night should make their own hotel reservation in Wokingham or
-the surrounding area, using the website [www.booking.com](http://www.booking.com/).
+Participants who need accomodation for Thursday night should make their own hotel reservation in Wokingham or the surrounding area, using the website [www.booking.com](http://www.booking.com/).
 
 ### Dinner
 Please let us know if you wish to take part in the dinner on **Thursday evening**.
