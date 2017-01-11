@@ -4,7 +4,14 @@ title: "Events"
 header-img: "img/gridbw.jpg"
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/National_Grid_logo.svg/2000px-National_Grid_logo.svg.png" alt="Drawing" style="width: 250px;"/>
+<div style="width: 500;">
+  <div style="float:left;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/National_Grid_logo.svg/2000px-National_Grid_logo.svg.png" width="250" style="float:left;" />
+  </div> 
+  <div style="float:left;"> 
+    <img src="https://iaciac.github.io/lobanet/img/sponsor-highres.jpg" width="250" style="float:left;" height="50"/>
+  </div>
+</div>
 
 # Workshop: Mathematics and Economics of Energy Markets 
 ---
