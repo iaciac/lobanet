@@ -46,5 +46,6 @@ Participants who need accomodation for Thursday night should make their own hote
 
 ### Dinner
 The workshop dinner will take place on 19 January at 19:30 in the [Walter Arms](http://thewalterarms.com) (menu [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/walterarms-menu.pdf)).
+
 ### Financial Support
 We do have some limited financial support. For requests of financial support for your travel expenses/hotel accomodation, contact Prof C. Beck (c.beck@qmul.ac.uk), either in advance or at the meeting.
