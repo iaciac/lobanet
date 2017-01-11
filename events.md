@@ -45,7 +45,6 @@ The location of the meeting is [The Oaks](http://theoaks.events/conference.html)
 Participants who need accomodation for Thursday night should make their own hotel reservation in Wokingham or the surrounding area, using the website [www.booking.com](http://www.booking.com/).
 
 ### Dinner
-Please let us know if you wish to take part in the dinner on **Thursday evening**.
-
+The workshop dinner will take place on 19 January at 19:30 in the [Walter Arms](http://thewalterarms.com) (menu [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/walterarms-menu.pdf)).
 ### Financial Support
 We do have some limited financial support. For requests of financial support for your travel expenses/hotel accomodation, contact Prof C. Beck (c.beck@qmul.ac.uk), either in advance or at the meeting.
