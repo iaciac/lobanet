@@ -59,3 +59,6 @@ The workshop dinner will take place on 19 January at 19:30 in the [Walter Arms](
 
 ### Financial Support
 We do have some limited financial support. For requests of financial support for your travel expenses/hotel accomodation, contact Prof C. Beck (c.beck@qmul.ac.uk), either in advance or at the meeting.
+
+### Preliminary list of participants
+A preliminary list of participants can be found [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/energy_markets_workshop_participants_website.pdf)
