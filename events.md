@@ -5,10 +5,10 @@ header-img: "img/gridbw.jpg"
 ---
 <div style="width: 500;">
   <div style="float:left;">
-    <img src="https://iaciac.github.io/lobanet/img/sponsor-highres.jpg" width="250" style="float:left;" />
+    <img src="https://iaciac.github.io/lobanet/img/sponsor-highres.jpg" width="250" style="float:left;" height="100"/>
   </div> 
   <div style="float:left;"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/National_Grid_logo.svg/2000px-National_Grid_logo.svg.png" width="250" style="float:left;" height="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/National_Grid_logo.svg/2000px-National_Grid_logo.svg.png" width="250" style="float:left;"/>
   </div>
 </div>
 
