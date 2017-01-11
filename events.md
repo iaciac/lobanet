@@ -15,6 +15,8 @@ header-img: "img/gridbw.jpg"
 
 <br>
 
+
+
 # Workshop: Mathematics and Economics of Energy Markets 
 ---
 **Organized by Christian Beck (QMUL), Chris Dent (Edinburgh), Preetam Heeramun (National Grid), Andrew Richards (National Grid), Stan Zachary (Heriot-Watt)**
