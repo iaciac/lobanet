@@ -50,6 +50,7 @@ The location of the meeting is [The Oaks](http://theoaks.events/conference.html)
 ### How to reach the venue
 * If you are coming by car, use the SatNav code RG41 5BP
 * If you are coming by train, take a taxi from Wokingham station
+In case of problems, the organizers can be reached under 0118 936 3575.
 
 ### Accomodation
 Participants who need accomodation for Thursday night should make their own hotel reservation in Wokingham or the surrounding area, using the website [www.booking.com](http://www.booking.com/).
