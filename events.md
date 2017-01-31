@@ -21,12 +21,12 @@ header-img: "img/gridbw.jpg"
 **Organized by Christian Beck (QMUL), Chris Dent (Edinburgh), Preetam Heeramun (National Grid), Andrew Richards (National Grid), Stan Zachary (Heriot-Watt)**
 
 
-In collaboration with [National Grid](http://www2.nationalgrid.com/uk/), we  are hosting a workshop in **Wokingham** on **19-20 January 2017** on Mathematics and Economics of Energy Markets.  The purpose of this workshop is to bring together industry experts, mathematicians and economists to focus on topics of acknowledged economic importance to the design and operation of future energy systems.  Each of these topics will be introduced by someone with knowledge of the industry and energy markets, and we propose also extensive discussion.
+In collaboration with [National Grid](http://www2.nationalgrid.com/uk/), we  were hosting a workshop in **Wokingham** on **19-20 January 2017** on Mathematics and Economics of Energy Markets.  The purpose of this workshop was to bring together industry experts, mathematicians and economists to focus on topics of acknowledged economic importance to the design and operation of future energy systems.  Each of these topics was introduced by someone with knowledge of the industry and energy markets, and we proposed also extensive discussion.
 
-The workshop is one of three planned in preparation for a proposed 4-month research programme in 2019 at the [Isaac Newton Institute of Mathematical Sciences](https://www.newton.ac.uk/) in Cambridge.  This programme will bring about 60 leading scholars from mathematics and economics to work on matters relating to energy and electricity.
+The workshop was one of three planned in preparation for a proposed 4-month research programme in 2019 at the [Isaac Newton Institute of Mathematical Sciences](https://www.newton.ac.uk/) in Cambridge.  This programme will bring about 60 leading scholars from mathematics and economics to work on matters relating to energy and electricity.
 
 
-Topics to be addressed at the Wokingham workshop are:
+Topics addressed at the Wokingham workshop:
 
 * Design of markets
 * Market integration of demand-side management and storage
@@ -35,6 +35,9 @@ Topics to be addressed at the Wokingham workshop are:
 
 
 The idea is for mathematicians and economists to understand the real-life problems that are on the horizon, and to develop the mathematical and economic tools suitable for planning for the future of electricity networks, both in UK and throughout the world.
+
+![alt-text-1](DSC_0117.JPG) ![alt-text-2](DSC_0138.JPG)
+
 
 
 ## Information for Workshop Participants
