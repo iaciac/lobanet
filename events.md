@@ -36,8 +36,17 @@ Topics addressed at the Wokingham workshop:
 
 The idea is for mathematicians and economists to understand the real-life problems that are on the horizon, and to develop the mathematical and economic tools suitable for planning for the future of electricity networks, both in UK and throughout the world.
 
-![alt-text-1](/img/workshop/DSC_0117.JPG) ![alt-text-2](/img/workshop/DSC_0138.JPG)
+## Download Section
 
+### Participants
+A list of participants can be found [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/energy_markets_workshop_participants_website.pdf)
+
+### Slides of the talks
+* [Chris Hall](https://github.com/iaciac/lobanet/raw/gh-pages/docs/workshop_slides/Chris_Hall.pdf)
+* [David Newbery](https://github.com/iaciac/lobanet/raw/gh-pages/docs/workshop_slides/David_Newbery.pdf)
+* [Duncan Rimmer](https://github.com/iaciac/lobanet/raw/gh-pages/docs/workshop_slides/Duncan_Rimmer.pdf)
+* [Nick Screen](https://github.com/iaciac/lobanet/raw/gh-pages/docs/workshop_slides/Nick_Screen.pdf)
+* [Rene Aid](https://github.com/iaciac/lobanet/raw/gh-pages/docs/workshop_slides/Rene_Aid.pdf)
 
 
 ## Information for Workshop Participants
@@ -65,5 +74,4 @@ The workshop dinner will take place on 19 January at 19:30 in the [Walter Arms](
 ### Financial Support
 We do have some limited financial support. For requests of financial support for your travel expenses/hotel accomodation, contact Prof C. Beck (c.beck@qmul.ac.uk), either in advance or at the meeting.
 
-### Preliminary list of participants
-A preliminary list of participants can be found [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/energy_markets_workshop_participants_website.pdf)
+
