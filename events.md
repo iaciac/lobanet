@@ -39,7 +39,7 @@ The idea is for mathematicians and economists to understand the real-life proble
 ## Download Section
 
 ### Participants
-A list of participants can be found [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/energy_markets_workshop_participants_website.pdf)
+A list of participants can be found [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/energy_markets_workshop_participants_website.pdf).
 
 ### Slides of the talks
 * [Chris Hall](https://github.com/iaciac/lobanet/raw/gh-pages/docs/workshop_slides/Chris_Hall.pdf)
@@ -47,6 +47,9 @@ A list of participants can be found [here](https://github.com/iaciac/lobanet/raw
 * [Duncan Rimmer](https://github.com/iaciac/lobanet/raw/gh-pages/docs/workshop_slides/Duncan_Rimmer.pdf)
 * [Nick Screen](https://github.com/iaciac/lobanet/raw/gh-pages/docs/workshop_slides/Nick_Screen.pdf)
 * [Rene Aid](https://github.com/iaciac/lobanet/raw/gh-pages/docs/workshop_slides/Rene_Aid.pdf)
+
+### Photos
+[Here](https://drive.google.com/open?id=0B1r-sjvJMeGgbTR4ZWtac2JvSEU) you can find some photos of the workshop.
 
 
 ## Information for Workshop Participants
