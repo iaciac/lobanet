@@ -36,7 +36,7 @@ Topics addressed at the Wokingham workshop:
 
 The idea is for mathematicians and economists to understand the real-life problems that are on the horizon, and to develop the mathematical and economic tools suitable for planning for the future of electricity networks, both in UK and throughout the world.
 
-![alt-text-1](DSC_0117.JPG) ![alt-text-2](DSC_0138.JPG)
+![alt-text-1](/img/workshop/DSC_0117.JPG) ![alt-text-2](/img/workshop/DSC_0138.JPG)
 
 
 
