@@ -6,12 +6,11 @@ header-img: "img/gridbw.jpg"
 
 # Impact of renewables and trading on power grid frequency fluctuations
 
-<object data="https://github.com/iaciac/lobanet/blob/gh-pages/img/GBFrequencyFluctuations.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/iaciac/lobanet/blob/gh-pages/img/GBFrequencyFluctuations.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<div style="float:center;">
+    <img src="img/GBFrequencyFluctuations.jpg" width="1389" style="float:left;" height="444"/>
+</div> 
 
+<br><br>
 
 The effect of energy trading is strong and comparable in size to the effect of renewables on the frequency fluctuations of a power grid, according to our [new study published in Nature Energy](https://www.nature.com/articles/s41560-017-0058-z).
 
