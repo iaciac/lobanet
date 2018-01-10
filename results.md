@@ -7,7 +7,7 @@ header-img: "img/gridbw.jpg"
 # Impact of renewables and trading on power grid frequency fluctuations
 
 <div style="float:center;">
-    <img src="img/GBFrequencyFluctuations.jpg" width="463" style="float:left;" height="148"/>
+    <img src="https://iaciac.github.io/lobanet/img/GBFrequencyFluctuations.jpg" width="463" style="float:left;" height="148"/>
 </div> 
 
 
