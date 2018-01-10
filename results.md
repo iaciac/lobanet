@@ -7,12 +7,9 @@ header-img: "img/gridbw.jpg"
 # Impact of renewables and trading on power grid frequency fluctuations
 
 <div style="width: 500;">
-  <div style="float:left;">
+  <div style="float:center;">
     <img src="/img/GBFrequencyFluctuations.pdf" width="250" style="float:left;" height="100"/>
   </div> 
-  <div style="float:left;"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/National_Grid_logo.svg/2000px-National_Grid_logo.svg.png" width="250" style="float:right;"/>
-  </div>
 </div>
 
 <br><br>
