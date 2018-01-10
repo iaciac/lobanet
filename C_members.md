@@ -24,8 +24,6 @@ header-img: "img/gridbw.jpg"
 <span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
 {% endif %}
 
-</br>
-
 {% if member.bio %} 
 {{ member.bio }}
 {% endif %}
