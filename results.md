@@ -6,8 +6,10 @@ header-img: "img/gridbw.jpg"
 
 # Impact of renewables and trading on power grid frequency fluctuations
 
+<br><br><br><br>
+
 <div style="float:center;">
-    <img src="https://iaciac.github.io/lobanet/img/GBFrequencyFluctuations.jpg" width="463" style="float:left;" height="148"/>
+    <img src="https://iaciac.github.io/lobanet/img/GBFrequencyFluctuations.jpg" width="695" style="float:center;" height="222"/>
 </div> 
 
 
