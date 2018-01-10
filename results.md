@@ -10,7 +10,10 @@ header-img: "img/gridbw.jpg"
     <img src="img/GBFrequencyFluctuations.jpg" width="463" style="float:left;" height="148"/>
 </div> 
 
-<br><br>
+
+<br><br><br><br>
+
+
 
 The effect of energy trading is strong and comparable in size to the effect of renewables on the frequency fluctuations of a power grid, according to our [new study published in Nature Energy](https://www.nature.com/articles/s41560-017-0058-z).
 
