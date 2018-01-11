@@ -7,7 +7,6 @@ header-img: "img/gridbw.jpg"
 # Non-Gaussian power grid frequency fluctuations characterized by Lévy-stable laws and superstatistics
 Benjamin Schäfer, Christian Beck, Kazuyuki Aihara, Dirk Witthaut & Marc Timme, **Nature Energy** (2018)
 
-<br>
 <div style="float:center;">
     <img src="https://iaciac.github.io/lobanet/img/GBFrequencyFluctuations.jpg" width="695" style="float:center;" height="222"/>
 </div> 
