@@ -22,6 +22,9 @@ Multiple types of fluctuations impact the collective dynamics of power grids and
 
 ---
 
+## Press 
+
+[QMUL News](http://www.qmul.ac.uk/media/news/2018/se/impact-of-renewables-and-trading-on-power-grid-frequency-fluctuations.html)
 
 
 
