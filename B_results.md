@@ -10,7 +10,6 @@ Benjamin Schäfer, Christian Beck, Kazuyuki Aihara, Dirk Witthaut & Marc Timme, 
 <div style="float:center;">
     <img src="https://iaciac.github.io/lobanet/img/GBFrequencyFluctuations.jpg" width="695" style="float:center;" height="222"/>
 </div> 
-<br>
 
 The effect of energy trading is strong and comparable in size to the effect of renewables on the frequency fluctuations of a power grid, according to our **new study published in Nature Energy** ([link](https://www.nature.com/articles/s41560-017-0058-z)).
 
