@@ -11,7 +11,7 @@ Benjamin Schäfer, Christian Beck, Kazuyuki Aihara, Dirk Witthaut & Marc Timme, 
     <img src="https://iaciac.github.io/lobanet/img/GBFrequencyFluctuations.jpg" width="695" style="float:center;" height="222"/>
 </div> 
 
-The effect of energy trading is strong and comparable in size to the effect of renewables on the frequency fluctuations of a power grid, according to our **new study published in Nature Energy** ([link](https://www.nature.com/articles/s41560-017-0058-z)).
+The effect of energy trading is strong and comparable in size to the effect of renewables on the frequency fluctuations of a power grid, according to our [new study](https://www.nature.com/articles/s41560-017-0058-z) published with collaborators from Goettingen, Juelich and Tokyo in **Nature Energy** ([link](https://www.nature.com/articles/s41560-017-0058-z)).
 
 We also found that splitting a large grid into small microgrids - as a way of integrating additional renewable power generation or creating smaller, mostly independent grids - will lead to larger frequency deviations which can potentially damage sensitive electronic devices.
 
