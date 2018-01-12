@@ -39,7 +39,7 @@ The idea is for mathematicians and economists to understand the real-life proble
 ## Download Section
 
 ### Participants
-A list of participants can be found [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/energy_markets_workshop_participants_website.pdf).
+A list of participants can be found [here](https://iaciac.github.io/lobanet/docs/energy_markets_workshop_participants_website.pdf).
 
 ### Slides of the talks
 * [Chris Hall](https://github.com/iaciac/lobanet/raw/gh-pages/docs/workshop_slides/Chris_Hall.pdf)
@@ -57,7 +57,7 @@ A list of participants can be found [here](https://github.com/iaciac/lobanet/raw
 ### Schedule 
 The workshop will start on Thursday 19 January 2017 at 9:30 (first talk at 10:30) and will end on Friday 20 January 2017 at 16:30.
 
-The complete schedule can be found [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/schedule-wokingham.pdf).
+The complete schedule can be found [here](https://iaciac.github.io/lobanet/docs/schedule-wokingham.pdf).
 
 ### Location
 The location of the meeting is [The Oaks](http://theoaks.events/conference.html), The Pavilion, Sadlers End, Sindlesham, Wokingham RG41 5BP
@@ -72,7 +72,7 @@ In case of problems, the organizers can be reached under 0118 936 3575.
 Participants who need accomodation for Thursday night should make their own hotel reservation in Wokingham or the surrounding area, using the website [www.booking.com](http://www.booking.com/).
 
 ### Dinner
-The workshop dinner will take place on 19 January at 19:30 in the [Walter Arms](http://thewalterarms.com) (menu [here](https://github.com/iaciac/lobanet/raw/gh-pages/docs/walterarms-menu.pdf)).
+The workshop dinner will take place on 19 January at 19:30 in the [Walter Arms](http://thewalterarms.com) (menu [here](https://iaciac.github.io/lobanet/docs/walterarms-menu.pdf)).
 
 ### Financial Support
 We do have some limited financial support. For requests of financial support for your travel expenses/hotel accomodation, contact Prof C. Beck (c.beck@qmul.ac.uk), either in advance or at the meeting.
