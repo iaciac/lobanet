@@ -24,9 +24,9 @@ Multiple types of fluctuations impact the collective dynamics of power grids and
 
 ## Press 
 
-+ [QMUL News](http://www.qmul.ac.uk/media/news/2018/se/impact-of-renewables-and-trading-on-power-grid-frequency-fluctuations.html)
-+ [Max Planck Institute News](https://www.ds.mpg.de/3175148/180108-pm-netzwerke)
-+ [University of Tokyo News](https://iaciac.github.io/lobanet/docs/press-release-japan.pdf)
++ [QMUL](http://www.qmul.ac.uk/media/news/2018/se/impact-of-renewables-and-trading-on-power-grid-frequency-fluctuations.html)
++ [Max Planck Institute](https://www.ds.mpg.de/3175148/180108-pm-netzwerke)
++ [The University of Tokyo](https://iaciac.github.io/lobanet/docs/press-release-japan.pdf)
 
 
 
