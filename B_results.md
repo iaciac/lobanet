@@ -28,6 +28,7 @@ Multiple types of fluctuations impact the collective dynamics of power grids and
 + [Max Planck Institute](https://www.ds.mpg.de/3175148/180108-pm-netzwerke)
 + [The University of Tokyo](https://iaciac.github.io/lobanet/docs/press-release-japan.pdf)
 
+---
 
 # Network dynamics of innovation processes
 Iacopo Iacopini, Staša Milojević & Vito Latora, **Physical Review Letters** (2018).
