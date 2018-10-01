@@ -29,7 +29,11 @@ Multiple types of fluctuations impact the collective dynamics of power grids and
 + [The University of Tokyo](https://iaciac.github.io/lobanet/docs/press-release-japan.pdf)
 
 
+# Network dynamics of innovation processes
+Iacopo Iacopini, Staša Milojević & Vito Latora, **Physical Review Letters** (2018).
 
-
+<div style="float:center;">
+    <img src="https://iaciac.github.io/lobanet/img/GBFrequencyFluctuations.jpg" width="695" style="float:center;" height="222"/>
+</div> 
 
 
