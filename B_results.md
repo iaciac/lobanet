@@ -33,7 +33,7 @@ Multiple types of fluctuations impact the collective dynamics of power grids and
 Iacopo Iacopini, Staša Milojević & Vito Latora, **Physical Review Letters** (2018).
 
 <div style="float:center;">
-    <img src="https://iaciac.github.io/lobanet/img/GBFrequencyFluctuations.jpg" width="695" style="float:center;" height="222"/>
+    <img src="https://iaciac.github.io/lobanet/img/Fig1-eps-converted-to.pdf" width="695" style="float:center;" height="222"/>
 </div> 
 
 
