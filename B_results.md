@@ -58,7 +58,7 @@ Creativity and innovation are the underlying forces driving the growth of our so
 Iacopo Iacopini, Giovanni Petri, Alain Barrat & Vito Latora, **arXiv preprint** (2018).
 
 <div style="float:center;">
-    <img src="https://iaciac.github.io/lobanet/img/simplagion.png" width="695" style="float:center;" height="222"/>
+    <img src="https://iaciac.github.io/lobanet/img/simplagion.png" width="695" style="float:center;" />
 </div> 
 
 New model of social contagion on simplicial complexes [link arXiv](https://arxiv.org/pdf/1810.07031.pdf).
