@@ -52,3 +52,26 @@ Creativity and innovation are the underlying forces driving the growth of our so
 + [Phys.org](https://phys.org/news/2018-01-mathematicians-ideas-emerge.html)
 + [R&D Mag](https://www.rdmag.com/news/2018/01/mathematicians-develop-model-how-new-ideas-emerge)
 
+---
+
+# Simplicial models of social contagion
+Iacopo Iacopini, Giovanni Petri, Alain Barrat & Vito Latora, **arXiv preprint** (2018).
+
+<div style="float:center;">
+    <img src="https://iaciac.github.io/lobanet/img/simplagion.png" width="695" style="float:center;" height="222"/>
+</div> 
+
+New model of social contagion on simplicial complexes [link arXiv](https://arxiv.org/pdf/1810.07031.pdf).
+
+---
+## Abstract
+
+Complex networks have been successfully used to describe the spreading of a disease between the
+individuals of a population. Conversely, pairwise interactions are often not enough to characterize
+processes of social contagion, such as opinion formation or the adoption of novelties, where a more
+complex dynamics of peer influence and reinforcement mechanisms is at work. We introduce here a
+high-order model of social contagion in which a social system is represented by a simplicial complex
+and the contagion can occur, with different transmission rates, over the links or through interactions
+in groups of different sizes. Numerical simulations of the model on synthetic simplicial complexes
+and analytical results highlight the emergence of novel phenomena, such as the appearance of an
+explosive transition induced by the high-order interactions.
