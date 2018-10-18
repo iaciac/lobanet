@@ -61,7 +61,7 @@ Iacopo Iacopini, Giovanni Petri, Alain Barrat & Vito Latora, **arXiv preprint** 
     <img src="https://iaciac.github.io/lobanet/img/simplagion.png" width="695" style="float:center;" />
 </div> 
 
-New model of social contagion on simplicial complexes [link arXiv](https://arxiv.org/pdf/1810.07031.pdf).
+New model of social contagion on simplicial complexes ([link](https://arxiv.org/pdf/1810.07031.pdf)).
 
 ---
 ## Abstract
