@@ -55,23 +55,17 @@ Creativity and innovation are the underlying forces driving the growth of our so
 ---
 
 # Simplicial models of social contagion
-Iacopo Iacopini, Giovanni Petri, Alain Barrat & Vito Latora, **arXiv preprint** (2018).
+Iacopo Iacopini, Giovanni Petri, Alain Barrat & Vito Latora, **Nature Communications** (2019).
 
 <div style="float:center;">
     <img src="https://iaciac.github.io/lobanet/img/simplagion.png" width="695" style="float:center;" />
 </div> 
 
-New model of social contagion on simplicial complexes ([link](https://arxiv.org/pdf/1810.07031.pdf)).
+This work introduces the Simplicial Contagion Model (SCM), a novel higher-order modelling framework of social contagions. In the SCM, the structure of a social system is represented as a simplicial complex, and different channels of infections, with different transmission rates, are considered depending on the fact that a contagion can occur on a link (two-body interaction) or is due to a group interaction.
+
+This [new study](https://www.nature.com/articles/s41560-017-0058-z) has been published  in **Nature Communications** ([link](https://www.nature.com/articles/s41467-019-10431-6)) with collaborators from Turin and Marseille.
 
 ---
 ## Abstract
 
-Complex networks have been successfully used to describe the spreading of a disease between the
-individuals of a population. Conversely, pairwise interactions are often not enough to characterize
-processes of social contagion, such as opinion formation or the adoption of novelties, where a more
-complex dynamics of peer influence and reinforcement mechanisms is at work. We introduce here a
-high-order model of social contagion in which a social system is represented by a simplicial complex
-and the contagion can occur, with different transmission rates, over the links or through interactions
-in groups of different sizes. Numerical simulations of the model on synthetic simplicial complexes
-and analytical results highlight the emergence of novel phenomena, such as the appearance of an
-explosive transition induced by the high-order interactions.
+Complex networks have been successfully used to describe the spread of diseases in populations of interacting individuals. Conversely, pairwise interactions are often not enough to characterize social contagion processes such as opinion formation or the adoption of novelties, where complex mechanisms of influence and reinforcement are at work. Here we introduce a higher-order model of social contagion in which a social system is represented by a simplicial complex and contagion can occur through interactions in groups of different sizes. Numerical simulations of the model on both empirical and synthetic simplicial complexes highlight the emergence of novel phenomena such as a discontinuous transition induced by higher-order interactions. We show analytically that the transition is discontinuous and that a bistable region appears where healthy and endemic states co-exist. Our results help explain why critical masses are required to initiate social changes and contribute to the understanding of higher-order interactions in complex systems.
