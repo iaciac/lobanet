@@ -52,6 +52,31 @@ Creativity and innovation are the underlying forces driving the growth of our so
 + [Phys.org](https://phys.org/news/2018-01-mathematicians-ideas-emerge.html)
 + [R&D Mag](https://www.rdmag.com/news/2018/01/mathematicians-develop-model-how-new-ideas-emerge)
 
+
+---
+
+# Dynamically induced cascading failures in power grids
+Benjamin Schäfer, Dirk Witthaut, Marc Timme & Vito Latora, **Nature Communications** (2018) - [link](https://www.nature.com/articles/s41467-018-04287-5)
+
+<div style="float:center;">
+    <img src="https://iaciac.github.io/lobanet/img/failures.png" width="695" style="float:center;" />
+</div> 
+
+---
+## Abstract
+
+Reliable functioning of infrastructure networks is essential for our modern society. Cascading failures are the cause of most large-scale network outages. Although cascading failures often exhibit dynamical transients, the modeling of cascades has so far mainly focused on the analysis of sequences of steady states. In this article, we focus on electrical transmission networks and introduce a framework that takes into account both the event-based nature of cascades and the essentials of the network dynamics. We find that transients of the order of seconds in the flows of a power grid play a crucial role in the emergence of collective behaviors. We finally propose a forecasting method to identify critical lines and components in advance or during operation. Overall, our work highlights the relevance of dynamically induced failures on the synchronization dynamics of national power grids of different European countries and provides methods to predict and model cascading failures.
+
+---
+
+# Benchmarking the performance of controllers for power grid transient stability
+Randall Martyr, Benjamin Schaefer, Christian Beck, Vito Latora, **Sustainable Energy, Grids and Networks** (2019) - [link](https://www.sciencedirect.com/science/article/pii/S235246771830290X)
+
+---
+## Abstract
+
+As the energy transition transforms power grids across the globe, it poses several challenges regarding grid design and control. In particular, high levels of intermittent renewable generation complicate the task of continuously balancing power supply and demand, requiring sufficient control actions. Although there exist several proposals to control the grid, most of them have not demonstrated to be cost efficient in terms of optimal control theory. Here, we mathematically formulate an optimal centralized (therefore non-local) control problem for stable operation of power grids and determine the minimal amount of active power necessary to guarantee a stable service within the operational constraints, minimizing a suitable cost function at the same time. This optimal control can be used to benchmark control proposals and we demonstrate this benchmarking process by investigating the performance of three distributed controllers, two of which are fully decentralized, that have been recently studied in the physics and power systems engineering literature. Our results show that cost efficient controllers distribute the controlled response amongst all nodes in the power grid. Additionally, superior performance can be achieved by incorporating sufficient information about the disturbance causing the instability. Overall, our results can help design and benchmark secure and cost-efficient controllers.
+
 ---
 
 # Simplicial models of social contagion
@@ -69,3 +94,35 @@ This [new study](https://www.nature.com/articles/s41560-017-0058-z) has been pub
 ## Abstract
 
 Complex networks have been successfully used to describe the spread of diseases in populations of interacting individuals. Conversely, pairwise interactions are often not enough to characterize social contagion processes such as opinion formation or the adoption of novelties, where complex mechanisms of influence and reinforcement are at work. Here we introduce a higher-order model of social contagion in which a social system is represented by a simplicial complex and contagion can occur through interactions in groups of different sizes. Numerical simulations of the model on both empirical and synthetic simplicial complexes highlight the emergence of novel phenomena such as a discontinuous transition induced by higher-order interactions. We show analytically that the transition is discontinuous and that a bistable region appears where healthy and endemic states co-exist. Our results help explain why critical masses are required to initiate social changes and contribute to the understanding of higher-order interactions in complex systems.
+
+---
+
+# Multi-layer modelling of adoption dynamics in energy demand management
+Iacopo Iacopini, Benjamin Schäfer, Elsa Arcaute, Christian Beck & Vito Latora (2019) - [link preprint](https://arxiv.org/abs/1907.13096)
+
+<div style="float:center;">
+    <img src="https://iaciac.github.io/lobanet/img/multi-layer.png" width="695" style="float:center;" />
+</div> 
+
+---
+## Abstract
+
+Due to the emerging of new technologies, the whole electricity system is undergoing transformations on a
+scale and pace never observed before. In particular, the decentralisation of energy resources and the smart 
+grid have changed the rules of the game and have forced utility services to rethink their relationships with
+customers. The so-called demand response (DR) seeks to adjust the demand for power instead of adjusting
+the supply. However, DR business models rely on customer participation and might only be effective if large
+numbers of customers in close geographic vicinity, e.g. connected to the same transformer, opt in. Here, we
+introduce a model for the dynamics of service adoption, in which the behaviour of a customer is influenced
+by its social contacts, in addition of also depending on the specific spatial configuration of other customers
+in close proximity within the power grid service area. In particular, we use a multiplex network with two
+layers coupled together, the social layer among customers and the power-grid layer connecting the households.
+While the adoption process, modelled as an epidemic spreading, runs on the social layer, the node- and timedependent recovery rate of the nodes depends on the states of their neighbours on the power-grid layer, so
+that the dynamics tends to preserve clusters of infected individuals by making an infected node surrounded by
+nodes in the same state less keen to recover. Numerical simulations of the model on synthetic and real-world
+networks show that strong local influence of the costumers actions leads to a discontinuous transition where
+either no or all nodes in the network are infected, depending on the infection rate and the social pressure to
+adopt. We find that clusters of local early adopters act as points of high local pressure, helping maintaining
+adopters, and facilitating an eventual adoption of all nodes. This suggests direct marketing strategies on how
+to efficiently establish and maintain new technologies such as DR schemes.
+
